@@ -1,6 +1,6 @@
 # GFTQA-JiraTestCases
 
-##Repo para o projeto de casos de teste em gherkin/BDD no Jira para a DIO - GFT QA
+## Repo para o projeto de casos de teste em gherkin/BDD no Jira para a DIO - GFT QA
 
 No repositório, existem 2 pastas: a pasta mindmaps para os mindmaps requeridos e a pasta cases com os casos de teste.
 No arquivo de Caso de teste - Recuperação de senha, há 3 casos de teste:
